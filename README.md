@@ -1,16 +1,17 @@
 Redux Core 
 ============
 
-https://www.redux.org
+https://www.redux-pow.org
 
 Copyright (c) 2009-2015 Bitcoin Core Developers
+
 Copyright (c) 2018 Redux Core Developers
 
 
 What is Redux?
 ----------------
 
-«Redux» is a community driven,new digital currency that enables anonymous, instant payments to anyone, anywhere in the world. Redux uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network.
+Redux is a community driven, new digital currency that enables anonymous, instant payments to anyone, anywhere in the world. Redux uses peer-to-peer technology to operate with no central authority: managing transactions and issuing money are carried out collectively by the network.
 
 For more information, as well as an immediately useable, binary version of the Redux software, see 
 
