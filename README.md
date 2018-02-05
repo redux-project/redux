@@ -5,7 +5,7 @@ https://www.redux-pow.org
 
 Copyright (c) 2009-2015 Bitcoin Core Developers
 
-Copyright (c) 2018 Redux Core Developers
+Copyright (c) 2018 Redux Developers
 
 
 What is Redux?
@@ -15,7 +15,7 @@ Redux is a community driven, new digital currency that enables anonymous, instan
 
 For more information, as well as an immediately useable, binary version of the Redux software, see 
 
-For more information, about «Redux», see https://www.redux-project.org
+For more information, about Redux, see https://www.redux-project.org
 
 License
 -------
