@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/redux_bg.qm</file>
+        <file alias="de">locale/redux_de.qm</file>
+        <file alias="en">locale/redux_en.qm</file>
+        <file alias="es">locale/redux_es.qm</file>
+        <file alias="fi">locale/redux_fi.qm</file>
+        <file alias="fr">locale/redux_fr.qm</file>
+        <file alias="it">locale/redux_it.qm</file>
+        <file alias="ja">locale/redux_ja.qm</file>
+        <file alias="pl">locale/redux_pl.qm</file>
+        <file alias="pt">locale/redux_pt.qm</file>
+        <file alias="ru">locale/redux_ru.qm</file>
+        <file alias="sk">locale/redux_sk.qm</file>
+        <file alias="sv">locale/redux_sv.qm</file>
+        <file alias="vi">locale/redux_vi.qm</file>
+        <file alias="zh_CN">locale/redux_zh_CN.qm</file>
+        <file alias="zh_TW">locale/redux_zh_TW.qm</file>
+    </qresource>
+</RCC>

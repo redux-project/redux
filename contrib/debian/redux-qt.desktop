@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Redux
+Comment=Redux P2P Cryptocurrency
+Comment[fr]=Redux, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Redux, eşten eşe kriptografik sanal para birimi
+Exec=redux-qt %u
+Terminal=false
+Type=Application
+Icon=redux128
+MimeType=x-scheme-handler/redux;
+Categories=Office;Finance;

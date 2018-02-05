@@ -1,0 +1,22 @@
+[Unit]
+Description=Redux's distributed currency daemon
+After=network.target
+
+[Service]
+User=redux
+Group=redux
+
+Type=forking
+PIDFile=/var/lib/reduxd/reduxd.pid
+ExecStart=/usr/bin/reduxd -daemon -pid=/var/lib/reduxd/reduxd.pid \
+-conf=/etc/redux/redux.conf -datadir=/var/lib/reduxd -disablewallet
+
+Restart=always
+PrivateTmp=true
+TimeoutStopSec=60s
+TimeoutStartSec=2s
+StartLimitInterval=120s
+StartLimitBurst=5
+
+[Install]
+WantedBy=multi-user.target
