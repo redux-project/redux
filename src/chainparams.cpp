@@ -136,7 +136,9 @@ public:
         assert(hashGenesisBlock == uint256("0x00000a3a8fa7380d280be066f7ecf4ba0c650839034964db5a6143fb11eafdbf"));
         assert(genesis.hashMerkleRoot == uint256("0xbf22bef8da3272017d49c7a14a90b3a0d54cc0f83cd73eee3d702cbb16d2c790"));
 
-        vSeeds.push_back(CDNSSeedData("159.65.20.209", "0.0.6.11"));
+        vSeeds.push_back(CDNSSeedData("159.65.20.209", "159.65.20.209"));
+	vSeeds.push_back(CDNSSeedData("1172.31.47.219", "172.31.47.219"));
+	vSeeds.push_back(CDNSSeedData("165.227.226.176", "165.227.226.176"));
 	
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of( 76);                    // Redux addresses start with 'X'
